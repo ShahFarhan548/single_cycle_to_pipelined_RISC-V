@@ -17,4 +17,5 @@ This is the instruction set that was followed and architecture was designed for 
 
 # Directory flow in which the code is uploaded
 1: Single_cycle\
-2: 
+2: pipelined only with register\
+3: pipelinded with hazards detection, forwarding , stalling and control logic
